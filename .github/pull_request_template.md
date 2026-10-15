@@ -20,7 +20,6 @@
 -->
 
 - [ ] I have read the [contributing guide](https://mcdc.readthedocs.io/en/dev/contributing/index.html).
-- [ ] My code follows the [code style](https://mcdc.readthedocs.io/en/dev/contributing/index.html#code-styling) of this project.
 - [ ] I have updated the documentation as needed. <!-- Delete if not applicable -->
 - [ ] I have updated `CHANGELOG.md` as needed. <!-- Delete if not applicable -->
 - [ ] I have added or updated tests to cover my changes. <!-- Delete if not applicable -->
